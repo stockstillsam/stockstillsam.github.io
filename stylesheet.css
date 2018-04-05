@@ -11,8 +11,8 @@ h1 {
     margin: 10px;
     background: rgb(253, 247, 247);
 }
-li {
+ul {
     list-style-type: none;
     float: left;
-    margin-right: 10px;
+    margin-right: 100px;
 }
